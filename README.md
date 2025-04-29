@@ -2,6 +2,7 @@
 
 
 mkdir my-html-pages
+<br>
 cd my-html-pages
 <br>
 git init
